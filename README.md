@@ -68,6 +68,7 @@
 @article{tian2026biases,
   title={Biases and Debiasing Approaches in Visual Question Answering: A Comprehensive Survey},
   author={Tian, Yuhao and Xu, Quanxing and Li, Songyu and Zhou, Ling and Zhong, Xian and Zhang, Feifei and Huang, Rubing},
+  journal={SSRN Preprint},
   year={2026}
 }
 ```
